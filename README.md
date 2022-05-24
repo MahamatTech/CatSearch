@@ -11,5 +11,7 @@ How to load the extension
 Test the Founctionality
 
 1.Go to google or any browser
+
 2. search for keyword 'cat'
-3. open the popup. the number of cas count should render
+3. 
+4. open the popup. the number of cas count should render
