@@ -12,7 +12,7 @@ You can use it in any browser extension
 
 1.Go to google or any browser
 
-2. search for keyword 'cat'
+2.search for keyword 'cat'
 
 
-3. open the popup. the number of cas count should render
+3.open the popup. the number of cas count should render
